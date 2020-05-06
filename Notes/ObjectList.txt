@@ -1,0 +1,11 @@
+---- ALL GAMEOBJECT TYPES ----
+type is defined as: object with unique mesh*
+0-Cube
+1-Sphere
+2-Capsule
+3-Cylinder
+4-Tree001
+5-WallDecoration001
+6-WallWithWindow001
+7-WallWithHole001
+8-Healthpack001

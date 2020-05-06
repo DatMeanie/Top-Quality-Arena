@@ -1,0 +1,32 @@
+--- BUGS / FEATURES THAT NEED FIXING ---
+- Glitchy animations
+- Rigidbodies sometimes fly in weird directions
+- Enemies sometimes fall off map in start (specifically crazy platforms)
+- Progression tab and/or playbuttons in wrong place
+- Changing post processing effects in settings has no effect in a level
+- Some ironsights are off (especially the pistol)
+- Player can repeatedly crouch to get more height when jumping (might stay)
+- Errors!!
+Hurt effect (player won but enemies still shoot. game tries to apply damage)
+Could not convert (transform values in mapeditor. player apply invalid number. example: 0)
+[Loading: box collider invalid size] (reason unknown. not gamebreaking)
+
+--- MISSING FEATURES ---
+- more weapons variety
+- map editor functionality
+able to change public script values. example: chunks values
+change color with color wheel
+- save multiple sets
+- mutators (optional game changing features)
+- reset maps ingame
+
+--- THINGS TO IMPROVE ---
+- Cleaner Code
+- Better performance (scripts)
+- Weapon rework
+animations, recoil on camera instead on weapon
+- Models
+- Sound
+- Music
+- Animations
+- Loading should only be during game start

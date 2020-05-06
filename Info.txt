@@ -1,0 +1,18 @@
+Title: Top Quality Arena
+Gameplay: The player is dropped into a semi-randomized arena and kill enemies. It is a first person shooter and is a fairly big project. Not complete.
+Started as hobby project under summerbreak but turned into school assigment later on.
+Created by Albin Fyhr
+
+Features:
+- Main Menu
+- Settings, includes mouse sens and optimization settings
+- Multiple weapons
+- Multiple maps
+- Map editor, very limited and only supports saving one map
+- Two gamemodes, one for hunting coins and one for killing enemies
+- Functional UI
+- Simple gameplay with decent depth. Semi-randomized maps helps replayability
+- Everything handcrafted by me, except music
+
+Known bugs:
+- Check Notes folder

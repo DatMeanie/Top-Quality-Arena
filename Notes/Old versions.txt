@@ -1,0 +1,24 @@
+---- OLD VERSIONS ----
+
+All old versions are saved in finished build form
+
+-- Noteworthy --
+v0.0.7 and v0.0.8 has txt-changelog
+Ingame changelog was added in v0.1.0
+v0.2.5 is an early version of 0.3.0
+v0.3.0 is lost in time
+
+-- ALPHA STAGE --
+
+0.0.1 - https://mega.nz/#!OYNW0AqT!mYu8SK55pryORp5nNrtgNASOP4PicHS66zS7DZ7Fmzo
+0.0.2 - https://mega.nz/#!6c9iCYpB!1PsCGm6aZHVlEh6a2ABhkeXhjgl8nEOrtBxQVCPstTE
+0.0.3 - https://mega.nz/#!GNMUAQgT!Q5ICLQtlP-A8zs3aW789_YGzC1HnGsxYsN3Go63KHDQ
+0.0.4 - https://mega.nz/#!vAMyQaqR!fL5vbI_WPoinU2r1_nKEOMgKyWLjs2oXKVtaHq4cqFs
+0.0.5 - https://mega.nz/#!GUFGXSyJ!pckNVb5orymI8rIrN4FVMlJ0-BUdDNjJI7Y0dLJFLho
+0.0.6 - https://mega.nz/#!jdEEjSZT!RDUjHzohiTlgDLRQoF6KRCxOOJHFRzUuBSKCv92Ejoc
+0.0.7 - https://mega.nz/#!fBlXhChB!vAEPWFeM4mnxDbl4Fism47jNIhKgo7e_QEYgzP14fbQ
+0.0.8 - https://mega.nz/#!LJdmGSzZ!DkV-Jys3fUAoj1L8zrKTIQfDedAxfDgmMwoUvjpVr20
+0.0.9 - https://mega.nz/#!rIMinK4a!-hWzpCiIzf4z-_3CKpNLoAmCyEfpx3Y6cOTkThsqhrM
+0.1.0 - https://mega.nz/#!PR0FxSYS!XrnjCXjxQZeem9tpQ-_SaxwjepPEp7P5qWVEqMtO5cE
+0.2.0 - https://mega.nz/#!bctkHAhJ!WflVUOBr7plt8qYAfeFYHB-UgkqZFUBKC9C0o1NGJEY
+0.2.5 - https://mega.nz/#!XRUggCCa!iMW-LfB8nOOEwqlL_nPhY6bc459rfdKEX75_Q7-sCx0

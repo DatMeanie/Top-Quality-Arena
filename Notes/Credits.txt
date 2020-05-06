@@ -1,0 +1,30 @@
+---- People involved ----
+Albin Fyhr - Only developer
+
+---- Applications Used ----
+
+Microsoft Paint (Not Paint 3D)
+Blender
+Paint.Net (application, not the website)
+Audacity
+Notepad
+Unity Engine 2018.2.5f1 64bit
+Visual Studio 2017
+DOTWEEN
+
+---- Sources ----
+THESE WILL BE REPLACED WITH MORE FITTING SOUNDS/MUSIC LATER!!
+
+-Music from youtube audio library-
+Main menu music:
+Dreaming_in_432Hz
+
+Ingame music:
+RaceCar
+Sunrise Drive
+FurFunk
+Diskofunque
+Let It Happen
+It was a Fine Day
+
+-Weapon soundeffects are homemade-

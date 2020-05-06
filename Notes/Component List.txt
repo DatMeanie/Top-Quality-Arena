@@ -1,0 +1,20 @@
+COMPONENT LIST IN SAVEMANAGER.CS
+
+LISTS ARE NOT FINAL!!
+
+0 - transform
+1-4 - boxcollider
+5-9 - spherecollider
+10 - meshcollider
+11 - rigidbody
+
+100 - MapSetSettings
+101 - ChunkHelper
+102 - SpecialChunk
+
+200 - Jumppad
+201 - HealthKit
+202 - EnemyRagdoll
+203 - EnemyShooting
+204 - EnemyAim
+205 - Coin
